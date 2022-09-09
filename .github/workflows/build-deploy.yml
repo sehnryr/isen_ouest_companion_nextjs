@@ -19,16 +19,21 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "lts/*"
-          cache: "npm"
+
+      - name: Install packages
+        run: npm i --legacy-peer-deps
 
       - name: Build
-        run: |
-          npm i --legacy-peer-deps
-          npm run build
-          npm run export
+        run: npm run build
+
+      - name: Export static files
+        run: npm run export
+
+      - name: Add .nojekyll file
+        run: touch out/.nojekyll
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4.4.0
         with:
           token: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          folder: ./out
+          folder: out
