@@ -1,12 +1,10 @@
 import * as React from 'react';
+import Image from 'next/image'
 import type { NextPage } from 'next';
 
 import {
-  TextField,
   Container,
   Box,
-  InputAdornment,
-  IconButton,
   FormControlLabel,
   Checkbox,
   Button,
@@ -14,15 +12,12 @@ import {
   SvgIcon,
   Paper
 } from '@mui/material';
-import {
-  Visibility,
-  VisibilityOff
-} from '@mui/icons-material';
 
 import AppIcon from '../public/school_black_24dp.svg';
 import Disclaimer from '../src/login/Disclaimer';
 import UsernameInput from '../src/login/UsernameInput';
 import PasswordInput from '../src/login/PasswordInput';
+import BackgroundImage from '../src/login/BackgroundImage';
 
 const Home: NextPage = () => {
   const [showPassword, setShowPassword] = React.useState(false);
@@ -78,6 +73,7 @@ const Home: NextPage = () => {
           <Disclaimer sx={{ mt: 4 }} />
         </Box>
       </Paper>
+      <BackgroundImage />
     </Container>
   );
 };
