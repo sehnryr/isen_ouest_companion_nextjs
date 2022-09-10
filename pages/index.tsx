@@ -2,11 +2,8 @@ import * as React from 'react';
 import type { NextPage } from 'next';
 
 import {
-  TextField,
   Container,
   Box,
-  InputAdornment,
-  IconButton,
   FormControlLabel,
   Checkbox,
   Button,
@@ -14,10 +11,6 @@ import {
   SvgIcon,
   Paper
 } from '@mui/material';
-import {
-  Visibility,
-  VisibilityOff
-} from '@mui/icons-material';
 
 import AppIcon from '../public/school_black_24dp.svg';
 import Disclaimer from '../src/login/Disclaimer';
