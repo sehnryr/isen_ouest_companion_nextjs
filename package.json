@@ -10,6 +10,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@svgr/webpack": "^6.3.1",
     "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
