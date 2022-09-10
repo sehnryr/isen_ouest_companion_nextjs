@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24px"
+   viewBox="0 0 24 24"
+   width="24px"
+   fill="#000000"
+   version="1.1"
+   id="svg898"
+   sodipodi:docname="school_black_24dp.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs902">
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect4153"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1,0,1 | F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1.5,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1 @ F,0,0,1,0,1,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect3885"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+    <inkscape:path-effect
+       effect="fillet_chamfer"
+       id="path-effect2534"
+       is_visible="true"
+       lpeversion="1"
+       satellites_param="F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 | F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1 @ F,0,0,1,0,0,0,1"
+       unit="px"
+       method="auto"
+       mode="F"
+       radius="0"
+       chamfer_steps="1"
+       flexible="false"
+       use_knot_distance="true"
+       apply_no_radius="true"
+       apply_with_radius="true"
+       only_selected="false"
+       hide_knots="false" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview900"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="16"
+     inkscape:cx="10.03125"
+     inkscape:cy="12.25"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg898" />
+  <path
+     d="M0 0h24v24H0z"
+     fill="none"
+     id="path894" />
+  <path
+     d="m 5,14.68 v 1.5 a 1.6849263,1.6849263 59.310964 0 0 0.8777997,1.479028 L 11.1222,20.520972 a 1.8324607,1.8324607 180 0 0 1.7556,0 l 5.2444,-2.861944 A 1.6849263,1.6849263 120.68904 0 0 19,16.18 v -1.5 a 0.89024664,0.89024664 30.689036 0 0 -1.3167,-0.781458 l -4.8055,2.62243 a 1.8324607,1.8324607 0 0 1 -1.7556,0 L 6.3166996,13.898542 A 0.89024664,0.89024664 149.31096 0 0 5,14.68 Z M 11.122104,3.4788521 2.3168434,8.2817218 a 0.81818182,0.81818182 90 0 0 0,1.4365564 l 8.8052606,4.8028698 a 1.8331636,1.8331636 179.99777 0 0 1.755754,-6.8e-5 l 6.805355,-3.712699 A 0.89037069,0.89037069 30.69254 0 1 21,11.59 V 16 a 1,1 45 0 0 1,1 1,1 135 0 0 1,-1 V 10 A 1.6845422,1.6845422 59.30523 0 0 22.122104,8.5211479 L 12.877896,3.4788521 a 1.8333333,1.8333333 0 0 0 -1.755792,0 z"
+     id="path896"
+     inkscape:path-effect="#path-effect4153"
+     inkscape:original-d="m 5,13.18 v 4 l 7,3.82 7,-3.82 v -4 L 12,17 Z M 12,3 1,9 12,15 21,10.09 V 17 h 2 V 9 Z" />
+</svg>
